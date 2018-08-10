@@ -1,4 +1,4 @@
-Tarefa da Matéria de Sistemas Operacionais
+Tarefa da Matéria de Programação Orientada à Objetos
 
 Projeto de um app de tarefas!
 
